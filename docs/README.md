@@ -16,6 +16,14 @@ Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas 
 <hr>
 <br>
 
+| **SOAL** | **JAWABAN** |
+| ---- | ------- |
+| **Nama Produk** | Chatin |
+| **Latar Belakang & Permasalahan** | Percakapan dengan klien merupakan kegiatan yang selalu diperlukan di perusahaan manapun. Perusahaan dapat berkomunikasi dengan klien melalui berbagai aplikasi seperti Whatsapp. Line atau bahkan aplikasi custom khusus chatting milik perusahaan itu sendiri. BIasanya pada setiap aplikasi tersebut akan dialokasikan seorang/beberapa agen untuk menjawab pertanyaan-pertanyaan yang dikirimkan oleh klien. <br> <br> Semakin besar perusahaan, maka semakin banyak pula klien yang berinteraksi. Hal ini berakibat dibutuhkannya agen yang lebih banyak untuk menangani pesan yang dikirimkan klien. Penambahan jumlah agen bukanlah solusi yang paling bijak. Hal ini dikarenakan, kita perusahaan membayar SDM yang lebih banyak. Selain itu, terkadang ada pertanyaan-pertanyaan dari pengguna yang sifatnya sepele namun sering ditanyakan. Alokasi agen untuk menjawab jenis-jenis pertanyaan seperti itu bukanlah solusi yang efisien. <br> <br>Perusahaan dapat mengurangi jumlah agen dengan cara mengintegrasikan chatbot ke dalam media komunikasi mereka. Chatbot dapat menjawab terlebih dahulu pertanyaan-pertanyaan user yang sifatnya sepele dan berulang. Hal ini dapat membantu kerja agen dalam melayani pertanyaan pengguna dan dapat mengurangi jumlah agen yang dialokasikan. |
+| **Rumusan Permasalahan** | Dari latar belakang yang telah dibuat, diperoleh beberapa rumusan masalah sebagai berikut : <br> - Bagaimana sebuah perusahaan dapat melayani pertanyaan dari klien secara 24 jam nonstop ? <br> - Bagaimana sebuah perusahaan dapat mempercepat proses pelayanan terhadap klien ? <br> - Bagaimana perusahaan dapat menekan SDM untuk menangani pesan dari klien mengingat semakin banyak klien maka diperlukan jumlah agen yang banyak pula ? <br> - Bagaimana perusahaan dapat meningkatkan pelayanan pengguna dalam menggunakan suatu platform digital ? |
+
+<br>
+
 **METODOLOGI SDLC**
 
 <table>
