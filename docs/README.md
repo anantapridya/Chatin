@@ -10,6 +10,12 @@
 
 <br>
 
+### "Project Senior Project TI"
+Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
+
+<hr>
+<br>
+
 **METODOLOGI SDLC**
 
 <table>
