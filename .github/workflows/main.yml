@@ -15,4 +15,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Run the docker containers
-      run: docker compose up -d
+      run: docker compose up -f ./chat-service-backed/docker-compose.yml -d
